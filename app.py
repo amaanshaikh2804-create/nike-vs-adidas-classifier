@@ -1,4 +1,3 @@
-"""Web app: python app.py, phir browser mein http://127.0.0.1:5000 kholein."""
 import io
 
 import numpy as np
